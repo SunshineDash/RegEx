@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\RegularExptessions\RegularExptessions\bin\Debug\netcoreapp3.1\RegularExptessions.exe
+C:\Users\Asus\source\repos\RegularExptessions\RegularExptessions\bin\Debug\netcoreapp3.1\RegularExptessions.deps.json
+C:\Users\Asus\source\repos\RegularExptessions\RegularExptessions\bin\Debug\netcoreapp3.1\RegularExptessions.runtimeconfig.json
+C:\Users\Asus\source\repos\RegularExptessions\RegularExptessions\bin\Debug\netcoreapp3.1\RegularExptessions.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\RegularExptessions\RegularExptessions\bin\Debug\netcoreapp3.1\RegularExptessions.dll
+C:\Users\Asus\source\repos\RegularExptessions\RegularExptessions\bin\Debug\netcoreapp3.1\RegularExptessions.pdb
+C:\Users\Asus\source\repos\RegularExptessions\RegularExptessions\obj\Debug\netcoreapp3.1\RegularExptessions.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\RegularExptessions\RegularExptessions\obj\Debug\netcoreapp3.1\RegularExptessions.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\RegularExptessions\RegularExptessions\obj\Debug\netcoreapp3.1\RegularExptessions.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\RegularExptessions\RegularExptessions\obj\Debug\netcoreapp3.1\RegularExptessions.AssemblyInfo.cs
+C:\Users\Asus\source\repos\RegularExptessions\RegularExptessions\obj\Debug\netcoreapp3.1\RegularExptessions.dll
+C:\Users\Asus\source\repos\RegularExptessions\RegularExptessions\obj\Debug\netcoreapp3.1\RegularExptessions.pdb
+C:\Users\Asus\source\repos\RegularExptessions\RegularExptessions\obj\Debug\netcoreapp3.1\RegularExptessions.genruntimeconfig.cache
